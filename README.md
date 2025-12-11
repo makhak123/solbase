@@ -2,7 +2,7 @@
 
 **Solbase** is a production-ready decentralized exchange (DEX) built on Solana. It's a complete Coinbase fork optimized for Solana's high-speed blockchain.
 
-CA: soon
+CA: 6KWtq1Uz1ZshFPg6WJdGr4ZjN3WCgzJyvPGfx1q1pump
 
 ## Features
 
